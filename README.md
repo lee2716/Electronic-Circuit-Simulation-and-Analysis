@@ -1,67 +1,48 @@
-Overview
+# Electronic Circuit Labs
 
-This repository contains a series of lab experiments conducted during my junior year in the Information Theory and Coding Experiment Course. The project focuses on circuit design, simulation, and analysis using Multisim and MATLAB. Topics include signal generation, operational amplifiers, dynamic circuits, power amplifiers, and small-signal amplification.
+This repository contains laboratory experiments from my junior year (first semester) in the Communication Engineering program. The experiments focus on circuit design, analysis, and simulation using tools like Multisim.
 
-Course Labs
+## Laboratory Experiments
 
-Lab 8: Function Generator Design
+### Lab 8: Function Generator Design
+- Understand the working principle of signal generators.
+- Design a function generator capable of outputting sine, square, and triangular waves.
 
-Understanding the principles of signal generators.
+### Lab 7: Operational Amplifier Circuits
+- Learn about integrated operational amplifier parameters and usage.
+- Understand negative feedback amplification circuits.
+- Simulate and analyze operational amplifier circuits and active/passive filters.
 
-Designing a function generator capable of outputting sine, square, and triangular waves.
+### Lab 6: Frequency Characteristics of Dynamic Circuits
+- Simulate and analyze the frequency characteristics of dynamic circuits.
+- Study the impact of circuit parameters on amplifier frequency response.
 
-Analyzing sine wave signal generators.
+### Lab 5: Characteristics of Dynamic Components and Circuits
+- Understand the characteristics of first-order and second-order dynamic circuits.
+- Analyze voltage and current relationships in dynamic components.
+- Perform AC simulation and impedance matching analysis.
 
-Lab 7: Operational Amplifier Circuits
+### Lab 4: Power Amplifier Design
+- Understand the structure and working principle of power amplifiers.
+- Design and analyze a power amplifier using discrete components.
+- Design an audio power amplifier using an integrated amplifier module.
 
-Studying integrated operational amplifier (op-amp) parameters and usage.
+### Lab 3: Small-Signal Amplifier Circuit Design
+- Learn design and simulation techniques for small-signal amplifiers.
+- Use Multisim for DC, AC, and IV curve analysis.
 
-Understanding negative feedback amplifiers.
+### Lab 2: DC Power Supply Design
+- Understand the circuit design process and component parameters.
+- Design a DC regulated power supply including rectification, filtering, and voltage regulation.
+- Optimize the design using Multisim simulations.
 
-Simulating operational amplifier circuits and comparing active/passive filter characteristics.
+## Tools Used
+- **Multisim**: Circuit simulation and analysis.
+- **MATLAB**: Signal processing and coding experiments.
 
-Lab 6: Frequency Response of Dynamic Circuits
+## License
+This project is licensed under the MIT License.
 
-Analyzing the frequency characteristics of dynamic circuits.
+---
 
-Examining the impact of circuit parameters on amplifier frequency response.
-
-Lab 5: Dynamic Components and AC Circuit Analysis
-
-Understanding first-order and second-order dynamic circuits.
-
-Studying impedance matching in sinusoidal steady-state circuits.
-
-Simulating AC circuits and analyzing impedance characteristics.
-
-Lab 4: Power Amplifiers
-
-Learning about power amplifier structures and working principles.
-
-Designing and simulating OCL (Output Capacitor-Less) circuits using discrete components.
-
-Implementing an audio power amplifier using integrated amplifier modules.
-
-Lab 3: Small Signal Amplifier Design
-
-Designing and simulating small-signal amplifier circuits.
-
-Utilizing Multisim for DC, AC, and IV characteristic analysis.
-
-Lab 2: DC Power Supply Design
-
-Understanding the functions of rectification, filtering, and voltage regulation.
-
-Designing a DC power supply and optimizing its performance using Multisim simulations.
-
-Technologies & Tools
-
-Multisim (circuit simulation and analysis)
-
-MATLAB (signal processing and theoretical analysis)
-
-Electronics & Circuit Design
-
-License
-
-This project is open-source under the MIT License.
+Feel free to use or modify this repository for learning and research purposes!
